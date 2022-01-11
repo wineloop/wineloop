@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wineloop
 - 👀 I’m interested in UX/UI Design
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning CSS
 - 💞️ I’m looking to collaborate on Design Projects
 - 📫 How to reach me kvinchoi@umich.edu
 
